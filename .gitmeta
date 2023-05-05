@@ -1,0 +1,4 @@
+chown -h 1000:1000 './git-afs'
+chmod 0664 './git-afs'
+/usr/bin/touch -hcmd "2023-05-04 22:17:53.5750854000 -0300" './git-afs'
+/usr/bin/touch -hcad "2023-05-04 22:17:53.5750854000 -0300" './git-afs'
